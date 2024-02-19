@@ -21,3 +21,4 @@ In this [dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-an
 The visualization below shows a stacked boxplot showing average_monthly_hours distributions for number_project, comparing the distributions of employees who stayed versus those who left.
 ![images/monthly_hours_vs_#projects.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/monthly_hours_vs_%23projects.png)
 
+The scatterplot below shows the average_monthly_hours versus `satisfaction_level`, comparing employees who stayed versus those who left
