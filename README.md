@@ -19,6 +19,5 @@ If we can predict employees likely to quit, it might be possible to identify fac
 In this [dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv), there are 14,999 rows, 10 columns. The features included information on employee-reported job satisfaction levels [0–1], the score of the employee's last performance review [0–1], the number of projects the employee contributes to, the average number of hours the employee worked per month, Whether or not the employee left the company. 
 
 The visualization below shows a stacked boxplot showing average_monthly_hours distributions for number_project, comparing the distributions of employees who stayed versus those who left.
-![](images/monthly_hours_vs_#projects.png)
-
+![images/monthly_hours_vs_#projects.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/monthly_hours_vs_%23projects.png)
 
