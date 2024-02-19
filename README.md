@@ -2,9 +2,9 @@
 
 **Overview**
 
-In this project, we are going to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
+In this project, I analyzed a dataset and built predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
 
-We will use different machine learning models to predict whether or not an employee will leave the company. We then will compare their performance and choose the champion model for deployment
+I used different machine learning models to predict whether or not an employee will leave the company. I then compared their performance and chose the champion model for deployment
 
 **Business Understanding**
 
