@@ -25,7 +25,7 @@ The scatterplot below shows the `average_monthly_hours` versus `satisfaction_lev
 ![images/monthly_hours_evaluation_score.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/monthly_hours_evaluation_score.png)
 
 A stacked histogram to compare department distribution of employees who left to that of employees who didn't
-![images/monthly_hours_evaluation_score.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/monthly_hours_evaluation_score.png)
+![images/counts of stayed or left by department.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/counts of stayed or left by department.png)
 
 A heatmap to visualize how correlated variables are. Considering which variables we're interested in examining correlations between.
 ![images/heatmap.png](https://github.com/RedaGrace/Providing-data-driven-suggestions-for-HR/blob/main/images/heatmap.png)
